@@ -11,7 +11,7 @@ A reference guide for the internal APIs, key methods, and utility functions in t
   - [Class: wmeGisLBBOX](#class-wmegislbbox)
     - [Constructor](#constructor)
       - [`new wmeGisLBBOX()`](#new-wmegislbbox)
-  - [File and Folder Convention Summary:](#file-and-folder-convention-summary)
+  - [File and Folder Convention Summary](#file-and-folder-convention-summary)
   - [Methods](#methods)
     - [fetchJsonWithCache(url)](#fetchjsonwithcacheurl)
     - [getCountriesAndSubsJson()](#getcountriesandsubsjson)
@@ -52,7 +52,7 @@ const bboxApi = new wmeGisLBBOX();
 
 ---
 
-## File and Folder Convention Summary:
+## File and Folder Convention Summary
 
 - **Top-level countries:**  
   `/BBOX JSON/COUNTRIES_BBOX_ESPG4326.json`  

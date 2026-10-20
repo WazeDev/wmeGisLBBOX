@@ -1521,7 +1521,7 @@
     "id": "UGA",
     "ISO_ALPHA2": "UG",
     "ISO_ALPHA3": "UGA",
-    "Sub_level": 1,
+    "Sub_level": 2,
     "bbox": [{ "minLon": 29.57430014, "minLat": -1.476108851, "maxLon": 35.0097181, "maxLat": 4.22278217 }]
   },
   "UKR": {

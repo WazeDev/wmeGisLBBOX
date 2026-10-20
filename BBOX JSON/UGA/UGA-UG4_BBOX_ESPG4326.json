@@ -1,0 +1,457 @@
+[
+  {
+    "Buhweju": {
+      "name": "Buhweju",
+      "sub_id": "UG4010",
+      "sub_num": "4010",
+      "bbox": {
+        "minLon": 30.18384,
+        "minLat": -0.45776,
+        "maxLon": 30.5156,
+        "maxLat": -0.18828
+      }
+    }
+  },
+  {
+    "Buliisa": {
+      "name": "Buliisa",
+      "sub_id": "UG4011",
+      "sub_num": "4011",
+      "bbox": {
+        "minLon": 31.10464,
+        "minLat": 1.67458,
+        "maxLon": 31.62306,
+        "maxLat": 2.27343
+      }
+    }
+  },
+  {
+    "Bundibugyo": {
+      "name": "Bundibugyo",
+      "sub_id": "UG4012",
+      "sub_num": "4012",
+      "bbox": {
+        "minLon": 29.9132,
+        "minLat": 0.40029,
+        "maxLon": 30.20635,
+        "maxLat": 0.89562
+      }
+    }
+  },
+  {
+    "Bunyangabu": {
+      "name": "Bunyangabu",
+      "sub_id": "UG4013",
+      "sub_num": "4013",
+      "bbox": {
+        "minLon": 29.98173,
+        "minLat": 0.33609,
+        "maxLon": 30.29465,
+        "maxLat": 0.62366
+      }
+    }
+  },
+  {
+    "Bushenyi": {
+      "name": "Bushenyi",
+      "sub_id": "UG4014",
+      "sub_num": "4014",
+      "bbox": {
+        "minLon": 29.93417,
+        "minLat": -0.66672,
+        "maxLon": 30.31051,
+        "maxLat": -0.28396
+      }
+    }
+  },
+  {
+    "Hoima": {
+      "name": "Hoima",
+      "sub_id": "UG4015",
+      "sub_num": "4015",
+      "bbox": {
+        "minLon": 30.80921,
+        "minLat": 1.26899,
+        "maxLon": 31.58841,
+        "maxLat": 1.85065
+      }
+    }
+  },
+  {
+    "Ibanda": {
+      "name": "Ibanda",
+      "sub_id": "UG4016",
+      "sub_num": "4016",
+      "bbox": {
+        "minLon": 30.2461,
+        "minLat": -0.289,
+        "maxLon": 30.63962,
+        "maxLat": 0.16526
+      }
+    }
+  },
+  {
+    "Isingiro": {
+      "name": "Isingiro",
+      "sub_id": "UG4017",
+      "sub_num": "4017",
+      "bbox": {
+        "minLon": 30.47816,
+        "minLat": -1.07616,
+        "maxLon": 31.27091,
+        "maxLat": -0.6023
+      }
+    }
+  },
+  {
+    "Kabale": {
+      "name": "Kabale",
+      "sub_id": "UG4018",
+      "sub_num": "4018",
+      "bbox": {
+        "minLon": 29.87765,
+        "minLat": -1.48248,
+        "maxLon": 30.17441,
+        "maxLat": -1.18999
+      }
+    }
+  },
+  {
+    "Kabarole": {
+      "name": "Kabarole",
+      "sub_id": "UG4019",
+      "sub_num": "4019",
+      "bbox": {
+        "minLon": 30.11962,
+        "minLat": 0.26666,
+        "maxLon": 30.56222,
+        "maxLat": 0.97591
+      }
+    }
+  },
+  {
+    "Kagadi": {
+      "name": "Kagadi",
+      "sub_id": "UG4020",
+      "sub_num": "4020",
+      "bbox": {
+        "minLon": 30.53831,
+        "minLat": 0.83361,
+        "maxLon": 31.13207,
+        "maxLat": 1.20639
+      }
+    }
+  },
+  {
+    "Kakumiro": {
+      "name": "Kakumiro",
+      "sub_id": "UG4021",
+      "sub_num": "4021",
+      "bbox": {
+        "minLon": 31.08329,
+        "minLat": 0.70342,
+        "maxLon": 31.52862,
+        "maxLat": 1.21805
+      }
+    }
+  },
+  {
+    "Kamwenge": {
+      "name": "Kamwenge",
+      "sub_id": "UG4022",
+      "sub_num": "4022",
+      "bbox": {
+        "minLon": 30.28607,
+        "minLat": 0.09475,
+        "maxLon": 30.85983,
+        "maxLat": 0.57413
+      }
+    }
+  },
+  {
+    "Kanungu": {
+      "name": "Kanungu",
+      "sub_id": "UG4023",
+      "sub_num": "4023",
+      "bbox": {
+        "minLon": 29.58097,
+        "minLat": -1.07866,
+        "maxLon": 29.90035,
+        "maxLat": -0.33671
+      }
+    }
+  },
+  {
+    "Kasese": {
+      "name": "Kasese",
+      "sub_id": "UG4024",
+      "sub_num": "4024",
+      "bbox": {
+        "minLon": 29.69935,
+        "minLat": -0.21053,
+        "maxLon": 30.29763,
+        "maxLat": 0.48187
+      }
+    }
+  },
+  {
+    "Kazo": {
+      "name": "Kazo",
+      "sub_id": "UG4043",
+      "sub_num": "4043",
+      "bbox": {
+        "minLon": 30.56858,
+        "minLat": -0.16385,
+        "maxLon": 31.0568,
+        "maxLat": 0.2113
+      }
+    }
+  },
+  {
+    "Kibaale": {
+      "name": "Kibaale",
+      "sub_id": "UG4025",
+      "sub_num": "4025",
+      "bbox": {
+        "minLon": 30.82897,
+        "minLat": 0.63185,
+        "maxLon": 31.28998,
+        "maxLat": 1.01036
+      }
+    }
+  },
+  {
+    "Kikuube": {
+      "name": "Kikuube",
+      "sub_id": "UG4026",
+      "sub_num": "4026",
+      "bbox": {
+        "minLon": 30.55039,
+        "minLat": 1.07095,
+        "maxLon": 31.41842,
+        "maxLat": 1.54696
+      }
+    }
+  },
+  {
+    "Kiruhura": {
+      "name": "Kiruhura",
+      "sub_id": "UG4027",
+      "sub_num": "4027",
+      "bbox": {
+        "minLon": 30.60836,
+        "minLat": -0.7151,
+        "maxLon": 31.15476,
+        "maxLat": 0.06138
+      }
+    }
+  },
+  {
+    "Kiryandongo": {
+      "name": "Kiryandongo",
+      "sub_id": "UG4028",
+      "sub_num": "4028",
+      "bbox": {
+        "minLon": 31.74334,
+        "minLat": 1.61298,
+        "maxLon": 32.36366,
+        "maxLat": 2.36921
+      }
+    }
+  },
+  {
+    "Kisoro": {
+      "name": "Kisoro",
+      "sub_id": "UG4029",
+      "sub_num": "4029",
+      "bbox": {
+        "minLon": 29.57218,
+        "minLat": -1.38808,
+        "maxLon": 29.82116,
+        "maxLat": -1.00811
+      }
+    }
+  },
+  {
+    "Kitagwenda": {
+      "name": "Kitagwenda",
+      "sub_id": "UG4042",
+      "sub_num": "4042",
+      "bbox": {
+        "minLon": 30.21191,
+        "minLat": -0.18292,
+        "maxLon": 30.47962,
+        "maxLat": 0.21095
+      }
+    }
+  },
+  {
+    "Kyegegwa": {
+      "name": "Kyegegwa",
+      "sub_id": "UG4030",
+      "sub_num": "4030",
+      "bbox": {
+        "minLon": 30.76925,
+        "minLat": 0.19272,
+        "maxLon": 31.25827,
+        "maxLat": 0.76386
+      }
+    }
+  },
+  {
+    "Kyenjojo": {
+      "name": "Kyenjojo",
+      "sub_id": "UG4031",
+      "sub_num": "4031",
+      "bbox": {
+        "minLon": 30.39651,
+        "minLat": 0.34473,
+        "maxLon": 30.9258,
+        "maxLat": 0.94072
+      }
+    }
+  },
+  {
+    "Masindi": {
+      "name": "Masindi",
+      "sub_id": "UG4032",
+      "sub_num": "4032",
+      "bbox": {
+        "minLon": 31.36771,
+        "minLat": 1.32316,
+        "maxLon": 32.09133,
+        "maxLat": 2.30179
+      }
+    }
+  },
+  {
+    "Mbarara": {
+      "name": "Mbarara",
+      "sub_id": "UG4033",
+      "sub_num": "4033",
+      "bbox": {
+        "minLon": 30.43808,
+        "minLat": -0.63129,
+        "maxLon": 30.7767,
+        "maxLat": -0.20844
+      }
+    }
+  },
+  {
+    "Mitooma": {
+      "name": "Mitooma",
+      "sub_id": "UG4034",
+      "sub_num": "4034",
+      "bbox": {
+        "minLon": 29.88423,
+        "minLat": -0.78052,
+        "maxLon": 30.16851,
+        "maxLat": -0.43768
+      }
+    }
+  },
+  {
+    "Ntoroko": {
+      "name": "Ntoroko",
+      "sub_id": "UG4035",
+      "sub_num": "4035",
+      "bbox": {
+        "minLon": 30.15174,
+        "minLat": 0.71652,
+        "maxLon": 30.5531,
+        "maxLat": 1.26348
+      }
+    }
+  },
+  {
+    "Ntungamo": {
+      "name": "Ntungamo",
+      "sub_id": "UG4036",
+      "sub_num": "4036",
+      "bbox": {
+        "minLon": 30.01997,
+        "minLat": -1.19546,
+        "maxLon": 30.60347,
+        "maxLat": -0.71722
+      }
+    }
+  },
+  {
+    "Rubanda": {
+      "name": "Rubanda",
+      "sub_id": "UG4037",
+      "sub_num": "4037",
+      "bbox": {
+        "minLon": 29.72778,
+        "minLat": -1.36085,
+        "maxLon": 30.03037,
+        "maxLat": -0.98789
+      }
+    }
+  },
+  {
+    "Rubirizi": {
+      "name": "Rubirizi",
+      "sub_id": "UG4038",
+      "sub_num": "4038",
+      "bbox": {
+        "minLon": 29.67599,
+        "minLat": -0.45163,
+        "maxLon": 30.28643,
+        "maxLat": -0.07205
+      }
+    }
+  },
+  {
+    "Rukiga": {
+      "name": "Rukiga",
+      "sub_id": "UG4039",
+      "sub_num": "4039",
+      "bbox": {
+        "minLon": 29.91813,
+        "minLat": -1.2819,
+        "maxLon": 30.29877,
+        "maxLat": -1.01206
+      }
+    }
+  },
+  {
+    "Rukungiri": {
+      "name": "Rukungiri",
+      "sub_id": "UG4040",
+      "sub_num": "4040",
+      "bbox": {
+        "minLon": 29.67581,
+        "minLat": -1.06113,
+        "maxLon": 30.07589,
+        "maxLat": -0.33651
+      }
+    }
+  },
+  {
+    "Rwampara": {
+      "name": "Rwampara",
+      "sub_id": "UG4044",
+      "sub_num": "4044",
+      "bbox": {
+        "minLon": 30.3139,
+        "minLat": -0.86771,
+        "maxLon": 30.65683,
+        "maxLat": -0.60204
+      }
+    }
+  },
+  {
+    "Sheema": {
+      "name": "Sheema",
+      "sub_id": "UG4041",
+      "sub_num": "4041",
+      "bbox": {
+        "minLon": 30.11377,
+        "minLat": -0.76355,
+        "maxLon": 30.47838,
+        "maxLat": -0.42564
+      }
+    }
+  }
+]

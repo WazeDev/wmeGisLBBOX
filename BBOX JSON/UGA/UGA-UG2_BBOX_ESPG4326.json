@@ -1,0 +1,483 @@
+[
+  {
+    "Amuria": {
+      "name": "Amuria",
+      "sub_id": "UG2010",
+      "sub_num": "2010",
+      "bbox": {
+        "minLon": 33.34762,
+        "minLat": 1.71527,
+        "maxLon": 33.90168,
+        "maxLat": 2.24632
+      }
+    }
+  },
+  {
+    "Budaka": {
+      "name": "Budaka",
+      "sub_id": "UG2011",
+      "sub_num": "2011",
+      "bbox": {
+        "minLon": 33.86326,
+        "minLat": 0.93528,
+        "maxLon": 34.12477,
+        "maxLat": 1.19326
+      }
+    }
+  },
+  {
+    "Bududa": {
+      "name": "Bududa",
+      "sub_id": "UG2012",
+      "sub_num": "2012",
+      "bbox": {
+        "minLon": 34.27139,
+        "minLat": 0.93335,
+        "maxLon": 34.53799,
+        "maxLat": 1.11912
+      }
+    }
+  },
+  {
+    "Bugiri": {
+      "name": "Bugiri",
+      "sub_id": "UG2013",
+      "sub_num": "2013",
+      "bbox": {
+        "minLon": 33.61251,
+        "minLat": 0.3112,
+        "maxLon": 33.97879,
+        "maxLat": 0.73356
+      }
+    }
+  },
+  {
+    "Bugweri": {
+      "name": "Bugweri",
+      "sub_id": "UG2014",
+      "sub_num": "2014",
+      "bbox": {
+        "minLon": 33.54156,
+        "minLat": 0.4424,
+        "maxLon": 33.68489,
+        "maxLat": 0.80142
+      }
+    }
+  },
+  {
+    "Bukedea": {
+      "name": "Bukedea",
+      "sub_id": "UG2015",
+      "sub_num": "2015",
+      "bbox": {
+        "minLon": 33.91803,
+        "minLat": 1.15935,
+        "maxLon": 34.27599,
+        "maxLat": 1.57936
+      }
+    }
+  },
+  {
+    "Bukwo": {
+      "name": "Bukwo",
+      "sub_id": "UG2016",
+      "sub_num": "2016",
+      "bbox": {
+        "minLon": 34.55246,
+        "minLat": 1.09946,
+        "maxLon": 34.83204,
+        "maxLat": 1.43979
+      }
+    }
+  },
+  {
+    "Bulambuli": {
+      "name": "Bulambuli",
+      "sub_id": "UG2017",
+      "sub_num": "2017",
+      "bbox": {
+        "minLon": 34.22689,
+        "minLat": 1.12927,
+        "maxLon": 34.53656,
+        "maxLat": 1.56783
+      }
+    }
+  },
+  {
+    "Busia": {
+      "name": "Busia",
+      "sub_id": "UG2018",
+      "sub_num": "2018",
+      "bbox": {
+        "minLon": 33.8795,
+        "minLat": 0.22109,
+        "maxLon": 34.13832,
+        "maxLat": 0.59292
+      }
+    }
+  },
+  {
+    "Butaleja": {
+      "name": "Butaleja",
+      "sub_id": "UG2019",
+      "sub_num": "2019",
+      "bbox": {
+        "minLon": 33.7598,
+        "minLat": 0.69141,
+        "maxLon": 34.13333,
+        "maxLat": 1.04134
+      }
+    }
+  },
+  {
+    "Butebo": {
+      "name": "Butebo",
+      "sub_id": "UG2020",
+      "sub_num": "2020",
+      "bbox": {
+        "minLon": 33.7354,
+        "minLat": 1.07439,
+        "maxLon": 34.13932,
+        "maxLat": 1.29478
+      }
+    }
+  },
+  {
+    "Buyende": {
+      "name": "Buyende",
+      "sub_id": "UG2021",
+      "sub_num": "2021",
+      "bbox": {
+        "minLon": 32.82028,
+        "minLat": 0.98426,
+        "maxLon": 33.44013,
+        "maxLat": 1.48125
+      }
+    }
+  },
+  {
+    "Iganga": {
+      "name": "Iganga",
+      "sub_id": "UG2022",
+      "sub_num": "2022",
+      "bbox": {
+        "minLon": 33.36206,
+        "minLat": 0.53639,
+        "maxLon": 33.57939,
+        "maxLat": 0.90821
+      }
+    }
+  },
+  {
+    "Jinja": {
+      "name": "Jinja",
+      "sub_id": "UG2023",
+      "sub_num": "2023",
+      "bbox": {
+        "minLon": 33.0433,
+        "minLat": 0.45249,
+        "maxLon": 33.37957,
+        "maxLat": 0.69844
+      }
+    }
+  },
+  {
+    "Kaberamaido": {
+      "name": "Kaberamaido",
+      "sub_id": "UG2024",
+      "sub_num": "2024",
+      "bbox": {
+        "minLon": 32.94515,
+        "minLat": 1.4609,
+        "maxLon": 33.31168,
+        "maxLat": 1.91122
+      }
+    }
+  },
+  {
+    "Kalaki": {
+      "name": "Kalaki",
+      "sub_id": "UG2046",
+      "sub_num": "2046",
+      "bbox": {
+        "minLon": 33.205,
+        "minLat": 1.60572,
+        "maxLon": 33.45364,
+        "maxLat": 2.05347
+      }
+    }
+  },
+  {
+    "Kaliro": {
+      "name": "Kaliro",
+      "sub_id": "UG2025",
+      "sub_num": "2025",
+      "bbox": {
+        "minLon": 33.33505,
+        "minLat": 0.8679,
+        "maxLon": 33.63657,
+        "maxLat": 1.29199
+      }
+    }
+  },
+  {
+    "Kamuli": {
+      "name": "Kamuli",
+      "sub_id": "UG2026",
+      "sub_num": "2026",
+      "bbox": {
+        "minLon": 32.93437,
+        "minLat": 0.65456,
+        "maxLon": 33.30702,
+        "maxLat": 1.22449
+      }
+    }
+  },
+  {
+    "Kapchorwa": {
+      "name": "Kapchorwa",
+      "sub_id": "UG2027",
+      "sub_num": "2027",
+      "bbox": {
+        "minLon": 34.30579,
+        "minLat": 1.18004,
+        "maxLon": 34.54268,
+        "maxLat": 1.47659
+      }
+    }
+  },
+  {
+    "Kapelebyong": {
+      "name": "Kapelebyong",
+      "sub_id": "UG2028",
+      "sub_num": "2028",
+      "bbox": {
+        "minLon": 33.48753,
+        "minLat": 1.97318,
+        "maxLon": 33.91746,
+        "maxLat": 2.41752
+      }
+    }
+  },
+  {
+    "Katakwi": {
+      "name": "Katakwi",
+      "sub_id": "UG2029",
+      "sub_num": "2029",
+      "bbox": {
+        "minLon": 33.79853,
+        "minLat": 1.63534,
+        "maxLon": 34.22326,
+        "maxLat": 2.30619
+      }
+    }
+  },
+  {
+    "Kibuku": {
+      "name": "Kibuku",
+      "sub_id": "UG2030",
+      "sub_num": "2030",
+      "bbox": {
+        "minLon": 33.62634,
+        "minLat": 0.94229,
+        "maxLon": 33.9373,
+        "maxLat": 1.16878
+      }
+    }
+  },
+  {
+    "Kumi": {
+      "name": "Kumi",
+      "sub_id": "UG2031",
+      "sub_num": "2031",
+      "bbox": {
+        "minLon": 33.72836,
+        "minLat": 1.25659,
+        "maxLon": 34.22952,
+        "maxLat": 1.64885
+      }
+    }
+  },
+  {
+    "Kween": {
+      "name": "Kween",
+      "sub_id": "UG2032",
+      "sub_num": "2032",
+      "bbox": {
+        "minLon": 34.39299,
+        "minLat": 1.10055,
+        "maxLon": 34.72616,
+        "maxLat": 1.602
+      }
+    }
+  },
+  {
+    "Luuka": {
+      "name": "Luuka",
+      "sub_id": "UG2033",
+      "sub_num": "2033",
+      "bbox": {
+        "minLon": 33.22013,
+        "minLat": 0.55945,
+        "maxLon": 33.43278,
+        "maxLat": 1.07733
+      }
+    }
+  },
+  {
+    "Manafwa": {
+      "name": "Manafwa",
+      "sub_id": "UG2045",
+      "sub_num": "2045",
+      "bbox": {
+        "minLon": 34.1799,
+        "minLat": 0.75756,
+        "maxLon": 34.35632,
+        "maxLat": 1.0077
+      }
+    }
+  },
+  {
+    "Mayuge": {
+      "name": "Mayuge",
+      "sub_id": "UG2034",
+      "sub_num": "2034",
+      "bbox": {
+        "minLon": 33.28301,
+        "minLat": -0.03257,
+        "maxLon": 33.71122,
+        "maxLat": 0.60894
+      }
+    }
+  },
+  {
+    "Mbale": {
+      "name": "Mbale",
+      "sub_id": "UG2035",
+      "sub_num": "2035",
+      "bbox": {
+        "minLon": 34.0812,
+        "minLat": 0.82916,
+        "maxLon": 34.33866,
+        "maxLat": 1.17462
+      }
+    }
+  },
+  {
+    "Namayingo": {
+      "name": "Namayingo",
+      "sub_id": "UG2036",
+      "sub_num": "2036",
+      "bbox": {
+        "minLon": 33.66345,
+        "minLat": -0.19352,
+        "maxLon": 33.94172,
+        "maxLat": 0.48945
+      }
+    }
+  },
+  {
+    "Namisindwa": {
+      "name": "Namisindwa",
+      "sub_id": "UG2037",
+      "sub_num": "2037",
+      "bbox": {
+        "minLon": 34.28506,
+        "minLat": 0.74647,
+        "maxLon": 34.47841,
+        "maxLat": 0.98057
+      }
+    }
+  },
+  {
+    "Namutumba": {
+      "name": "Namutumba",
+      "sub_id": "UG2038",
+      "sub_num": "2038",
+      "bbox": {
+        "minLon": 33.54141,
+        "minLat": 0.68414,
+        "maxLon": 33.85992,
+        "maxLat": 1.08892
+      }
+    }
+  },
+  {
+    "Ngora": {
+      "name": "Ngora",
+      "sub_id": "UG2039",
+      "sub_num": "2039",
+      "bbox": {
+        "minLon": 33.55707,
+        "minLat": 1.31033,
+        "maxLon": 33.89964,
+        "maxLat": 1.68168
+      }
+    }
+  },
+  {
+    "Pallisa": {
+      "name": "Pallisa",
+      "sub_id": "UG2040",
+      "sub_num": "2040",
+      "bbox": {
+        "minLon": 33.39541,
+        "minLat": 1.08975,
+        "maxLon": 33.8741,
+        "maxLat": 1.34443
+      }
+    }
+  },
+  {
+    "Serere": {
+      "name": "Serere",
+      "sub_id": "UG2041",
+      "sub_num": "2041",
+      "bbox": {
+        "minLon": 33.01547,
+        "minLat": 1.30937,
+        "maxLon": 33.70816,
+        "maxLat": 1.67281
+      }
+    }
+  },
+  {
+    "Sironko": {
+      "name": "Sironko",
+      "sub_id": "UG2042",
+      "sub_num": "2042",
+      "bbox": {
+        "minLon": 34.16997,
+        "minLat": 1.08479,
+        "maxLon": 34.52716,
+        "maxLat": 1.29155
+      }
+    }
+  },
+  {
+    "Soroti": {
+      "name": "Soroti",
+      "sub_id": "UG2043",
+      "sub_num": "2043",
+      "bbox": {
+        "minLon": 33.39029,
+        "minLat": 1.55561,
+        "maxLon": 33.81592,
+        "maxLat": 2.0201
+      }
+    }
+  },
+  {
+    "Tororo": {
+      "name": "Tororo",
+      "sub_id": "UG2044",
+      "sub_num": "2044",
+      "bbox": {
+        "minLon": 33.88098,
+        "minLat": 0.57496,
+        "maxLon": 34.31401,
+        "maxLat": 0.90302
+      }
+    }
+  }
+]
