@@ -1,0 +1,110 @@
+[
+  {
+    "Ávila": {
+      "sub_num": "AV",
+      "name": "Ávila",
+      "bbox": {
+        "minLon": -5.72773271332872,
+        "minLat": 40.0888194878609,
+        "maxLon": -4.16129085985702,
+        "maxLat": 41.1607887205303
+      }
+    }
+  },
+  {
+    "Burgos": {
+      "sub_num": "BU",
+      "name": "Burgos",
+      "bbox": {
+        "minLon": -4.33075990187471,
+        "minLat": 41.4576502614835,
+        "maxLon": -2.51294186103513,
+        "maxLat": 43.2011875515987
+      }
+    }
+  },
+  {
+    "León": {
+      "sub_num": "LE",
+      "name": "León",
+      "bbox": {
+        "minLon": -7.07103573236021,
+        "minLat": 42.0307520484266,
+        "maxLon": -4.72686357313458,
+        "maxLat": 43.2385496706044
+      }
+    }
+  },
+  {
+    "Palencia": {
+      "sub_num": "P",
+      "name": "Palencia",
+      "bbox": {
+        "minLon": -5.02695255453259,
+        "minLat": 41.7632569229162,
+        "maxLon": -3.89246032381118,
+        "maxLat": 43.0509382825555
+      }
+    }
+  },
+  {
+    "Salamanca": {
+      "sub_num": "SA",
+      "name": "Salamanca",
+      "bbox": {
+        "minLon": -6.94249141562943,
+        "minLat": 40.2443655419307,
+        "maxLon": -5.09575992864145,
+        "maxLat": 41.3029916667699
+      }
+    }
+  },
+  {
+    "Segovia": {
+      "sub_num": "SG",
+      "name": "Segovia",
+      "bbox": {
+        "minLon": -4.71385317627869,
+        "minLat": 40.6333680167308,
+        "maxLon": -3.19879147092525,
+        "maxLat": 41.583246026076
+      }
+    }
+  },
+  {
+    "Soria": {
+      "sub_num": "SO",
+      "name": "Soria",
+      "bbox": {
+        "minLon": -3.54296324052633,
+        "minLat": 41.0637987064277,
+        "maxLon": -1.78554439902406,
+        "maxLat": 42.1422084198348
+      }
+    }
+  },
+  {
+    "Valladolid": {
+      "sub_num": "VA",
+      "name": "Valladolid",
+      "bbox": {
+        "minLon": -5.52075506186953,
+        "minLat": 41.0975074379645,
+        "maxLon": -3.98061462403179,
+        "maxLat": 42.3093983290113
+      }
+    }
+  },
+  {
+    "Zamora": {
+      "sub_num": "ZA",
+      "name": "Zamora",
+      "bbox": {
+        "minLon": -7.0281442909152,
+        "minLat": 41.1161512414089,
+        "maxLon": -5.22872746267747,
+        "maxLat": 42.2528734863353
+      }
+    }
+  }
+]

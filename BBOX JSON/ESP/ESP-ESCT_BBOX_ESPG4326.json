@@ -1,0 +1,50 @@
+[
+  {
+    "Barcelona": {
+      "sub_num": "B",
+      "name": "Barcelona",
+      "bbox": {
+        "minLon": 1.3699800640746,
+        "minLat": 41.1921654192103,
+        "maxLon": 2.77849657662926,
+        "maxLat": 42.3183742126791
+      }
+    }
+  },
+  {
+    "Gerona": {
+      "sub_num": "GI",
+      "name": "Gerona",
+      "bbox": {
+        "minLon": 1.71217411310215,
+        "minLat": 41.6455821997168,
+        "maxLon": 3.31771894518133,
+        "maxLat": 42.4937122764574
+      }
+    }
+  },
+  {
+    "Lérida": {
+      "sub_num": "L",
+      "name": "Lérida",
+      "bbox": {
+        "minLon": 0.32419762515397,
+        "minLat": 41.2328323150909,
+        "maxLon": 1.84254599943247,
+        "maxLat": 42.8465847761162
+      }
+    }
+  },
+  {
+    "Tarragona": {
+      "sub_num": "T",
+      "name": "Tarragona",
+      "bbox": {
+        "minLon": 0.167463005592998,
+        "minLat": 40.5261630373208,
+        "maxLon": 1.62782919366794,
+        "maxLat": 41.5761159160343
+      }
+    }
+  }
+]

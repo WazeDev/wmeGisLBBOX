@@ -4,10 +4,10 @@
       "sub_id": "ESCN",
       "sub_num": "CN",
       "bbox": {
-        "minLon": -18.16128302,
-        "minLat": 27.63735378,
-        "maxLon": -13.3344357,
-        "maxLat": 29.41713476
+        "minLon": -18.167225708,
+        "minLat": 27.642238703,
+        "maxLon": -13.41779538,
+        "maxLat": 29.289455615
       }
     },
     "ESAN": {
@@ -15,10 +15,10 @@
       "sub_id": "ESAN",
       "sub_num": "AN",
       "bbox": {
-        "minLon": -7.522564292,
-        "minLat": 35.9372375,
-        "maxLon": -1.625725627,
-        "maxLat": 38.72886658
+        "minLon": -7.529690718,
+        "minLat": 36.006455828,
+        "maxLon": -1.641617713,
+        "maxLat": 38.728411453
       }
     },
     "ESAR": {
@@ -26,10 +26,10 @@
       "sub_id": "ESAR",
       "sub_num": "AR",
       "bbox": {
-        "minLon": -2.172676563,
-        "minLat": 39.84844208,
-        "maxLon": 0.77319479,
-        "maxLat": 42.92736053
+        "minLon": -2.173350185,
+        "minLat": 39.852244872,
+        "maxLon": 0.769545119,
+        "maxLat": 42.918727294
       }
     },
     "ESAS": {
@@ -37,10 +37,10 @@
       "sub_id": "ESAS",
       "sub_num": "AS",
       "bbox": {
-        "minLon": -7.179613232,
-        "minLat": 42.8819561,
-        "maxLon": -4.512046456,
-        "maxLat": 43.66125596
+        "minLon": -7.171623906,
+        "minLat": 42.892834333,
+        "maxLon": -4.513259038,
+        "maxLat": 43.662949804
       }
     },
     "ESCB": {
@@ -48,10 +48,10 @@
       "sub_id": "ESCB",
       "sub_num": "CB",
       "bbox": {
-        "minLon": -4.849786758,
-        "minLat": 42.75818825,
-        "maxLon": -3.145573497,
-        "maxLat": 43.514817
+        "minLon": -4.836030033,
+        "minLat": 42.762506307,
+        "maxLon": -3.149543827,
+        "maxLat": 43.518255854
       }
     },
     "ESCL": {
@@ -59,10 +59,10 @@
       "sub_id": "ESCL",
       "sub_num": "CL",
       "bbox": {
-        "minLon": -7.074454546,
-        "minLat": 40.0825882,
-        "maxLon": -1.785987854,
-        "maxLat": 43.23712349
+        "minLon": -7.071035732,
+        "minLat": 40.088819488,
+        "maxLon": -1.785544399,
+        "maxLat": 43.238549671
       }
     },
     "ESCM": {
@@ -70,10 +70,10 @@
       "sub_id": "ESCM",
       "sub_num": "CM",
       "bbox": {
-        "minLon": -5.402094126,
-        "minLat": 38.02127838,
-        "maxLon": -0.913933158,
-        "maxLat": 41.32541657
+        "minLon": -5.391009076,
+        "minLat": 38.023622475,
+        "maxLon": -0.903479376,
+        "maxLat": 41.322129164
       }
     },
     "ESCT": {
@@ -81,10 +81,10 @@
       "sub_id": "ESCT",
       "sub_num": "CT",
       "bbox": {
-        "minLon": 0.180124402,
-        "minLat": 40.52250993,
-        "maxLon": 3.332553267,
-        "maxLat": 42.86006927
+        "minLon": 0.167463006,
+        "minLat": 40.526163037,
+        "maxLon": 3.317718945,
+        "maxLat": 42.846584776
       }
     },
     "ESCE": {
@@ -103,10 +103,10 @@
       "sub_id": "ESEX",
       "sub_num": "EX",
       "bbox": {
-        "minLon": -7.540270805,
-        "minLat": 37.94025421,
-        "maxLon": -4.648191214,
-        "maxLat": 40.48650742
+        "minLon": -7.557285934,
+        "minLat": 37.938976634,
+        "maxLon": -4.658392297,
+        "maxLat": 40.480320132
       }
     },
     "ESGA": {
@@ -114,10 +114,10 @@
       "sub_id": "ESGA",
       "sub_num": "GA",
       "bbox": {
-        "minLon": -9.301703691,
-        "minLat": 41.80847168,
-        "maxLon": -6.733595967,
-        "maxLat": 43.79110587
+        "minLon": -9.291981568,
+        "minLat": 41.80595062,
+        "maxLon": -6.735707364,
+        "maxLat": 43.79344305
       }
     },
     "ESIB": {
@@ -125,10 +125,10 @@
       "sub_id": "ESIB",
       "sub_num": "IB",
       "bbox": {
-        "minLon": 1.156689644,
-        "minLat": 38.64065719,
-        "maxLon": 4.328058362,
-        "maxLat": 40.09482753
+        "minLon": 1.212168815,
+        "minLat": 38.638646281,
+        "maxLon": 4.337087434,
+        "maxLat": 40.079413151
       }
     },
     "ESRI": {
@@ -136,10 +136,10 @@
       "sub_id": "ESRI",
       "sub_num": "RI",
       "bbox": {
-        "minLon": -3.132076621,
-        "minLat": 41.91936493,
-        "maxLon": -1.677803516,
-        "maxLat": 42.64188766
+        "minLon": -3.120966762,
+        "minLat": 41.918449446,
+        "maxLon": -1.685783046,
+        "maxLat": 42.644115841
       }
     },
     "ESMD": {
@@ -147,10 +147,10 @@
       "sub_id": "ESMD",
       "sub_num": "MD",
       "bbox": {
-        "minLon": -4.580481768,
-        "minLat": 39.88552094,
-        "maxLon": -3.057457804,
-        "maxLat": 41.17092133
+        "minLon": -4.571885952,
+        "minLat": 39.893534373,
+        "maxLon": -3.062236497,
+        "maxLat": 41.16175143
       }
     },
     "ESML": {
@@ -169,10 +169,10 @@
       "sub_id": "ESMC",
       "sub_num": "MC",
       "bbox": {
-        "minLon": -2.344676137,
-        "minLat": 37.3779999,
-        "maxLon": -0.648137569,
-        "maxLat": 38.75324249
+        "minLon": -2.3385339,
+        "minLat": 37.381036496,
+        "maxLon": -0.701242642,
+        "maxLat": 38.75409471
       }
     },
     "ESNC": {
@@ -180,21 +180,21 @@
       "sub_id": "ESNC",
       "sub_num": "NC",
       "bbox": {
-        "minLon": -2.499902725,
-        "minLat": 41.91181183,
-        "maxLon": -0.725145221,
-        "maxLat": 43.31497192
+        "minLon": -2.49454505,
+        "minLat": 41.90886348,
+        "maxLon": -0.745031963,
+        "maxLat": 43.304928926
       }
     },
-    "ESBI": {
+    "ESPV": {
       "name": "País Vasco",
-      "sub_id": "ESBI",
-      "sub_num": "BI",
+      "sub_id": "ESPV",
+      "sub_num": "PV",
       "bbox": {
-        "minLon": -3.444818735,
-        "minLat": 42.46627808,
-        "maxLon": -1.727053523,
-        "maxLat": 43.45658541
+        "minLon": -3.44502967,
+        "minLat": 42.496682831,
+        "maxLon": -1.749729986,
+        "maxLat": 43.452500576
       }
     },
     "ESVC": {
@@ -202,10 +202,10 @@
       "sub_id": "ESVC",
       "sub_num": "VC",
       "bbox": {
-        "minLon": -1.528279066,
-        "minLat": 37.84549713,
-        "maxLon": 0.69070363,
-        "maxLat": 40.7888031
+        "minLon": -1.518273891,
+        "minLat": 37.842910133,
+        "maxLon": 0.523759592,
+        "maxLat": 40.779914274
       }
     },
     "ES1": {

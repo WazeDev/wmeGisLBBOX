@@ -1,0 +1,62 @@
+[
+  {
+    "Albacete": {
+      "sub_num": "AB",
+      "name": "Albacete",
+      "bbox": {
+        "minLon": -2.88212459088717,
+        "minLat": 38.0236224752401,
+        "maxLon": -0.903479376495511,
+        "maxLat": 39.4220416822658
+      }
+    }
+  },
+  {
+    "Ciudad Real": {
+      "sub_num": "CR",
+      "name": "Ciudad Real",
+      "bbox": {
+        "minLon": -5.03658626687978,
+        "minLat": 38.3488739956839,
+        "maxLon": -2.64384211327218,
+        "maxLat": 39.576768880406
+      }
+    }
+  },
+  {
+    "Cuenca": {
+      "sub_num": "CU",
+      "name": "Cuenca",
+      "bbox": {
+        "minLon": -3.17006527588916,
+        "minLat": 39.2267334129158,
+        "maxLon": -1.14548010976322,
+        "maxLat": 40.6597901443307
+      }
+    }
+  },
+  {
+    "Guadalajara": {
+      "sub_num": "GU",
+      "name": "Guadalajara",
+      "bbox": {
+        "minLon": -3.5457728746903,
+        "minLat": 40.1553418834342,
+        "maxLon": -1.53705827477664,
+        "maxLat": 41.3221291644786
+      }
+    }
+  },
+  {
+    "Toledo": {
+      "sub_num": "TO",
+      "name": "Toledo",
+      "bbox": {
+        "minLon": -5.39100907648092,
+        "minLat": 39.2596705610047,
+        "maxLon": -2.90823909609492,
+        "maxLat": 40.3094778574073
+      }
+    }
+  }
+]

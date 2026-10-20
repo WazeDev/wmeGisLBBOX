@@ -1,0 +1,50 @@
+[
+  {
+    "La Coruña": {
+      "sub_num": "C",
+      "name": "La Coruña",
+      "bbox": {
+        "minLon": -9.29198156787947,
+        "minLat": 42.5307071450476,
+        "maxLon": -7.66832434337301,
+        "maxLat": 43.7934430501428
+      }
+    }
+  },
+  {
+    "Lugo": {
+      "sub_num": "LU",
+      "name": "Lugo",
+      "bbox": {
+        "minLon": -7.9998091156962,
+        "minLat": 42.3255262793271,
+        "maxLon": -6.8282856915434,
+        "maxLat": 43.7526716311369
+      }
+    }
+  },
+  {
+    "Orense": {
+      "sub_num": "OR",
+      "name": "Orense",
+      "bbox": {
+        "minLon": -8.34228593390725,
+        "minLat": 41.8059506196303,
+        "maxLon": -6.73570736382908,
+        "maxLat": 42.5784535555675
+      }
+    }
+  },
+  {
+    "Pontevedra": {
+      "sub_num": "PO",
+      "name": "Pontevedra",
+      "bbox": {
+        "minLon": -8.94261633826901,
+        "minLat": 41.8889021300638,
+        "maxLon": -7.86814894583232,
+        "maxLat": 42.853012847073
+      }
+    }
+  }
+]

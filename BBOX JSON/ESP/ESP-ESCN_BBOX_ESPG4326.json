@@ -1,0 +1,26 @@
+[
+  {
+    "Las Palmas": {
+      "sub_num": "GC",
+      "name": "Las Palmas",
+      "bbox": {
+        "minLon": -15.82176672531,
+        "minLat": 27.7343609804941,
+        "maxLon": -13.4177953802851,
+        "maxLat": 29.2894556147655
+      }
+    }
+  },
+  {
+    "Santa Cruz de Tenerife": {
+      "sub_num": "TF",
+      "name": "Santa Cruz de Tenerife",
+      "bbox": {
+        "minLon": -18.1672257084378,
+        "minLat": 27.6422387025603,
+        "maxLon": -16.1177465434265,
+        "maxLat": 28.8556189367562
+      }
+    }
+  }
+]

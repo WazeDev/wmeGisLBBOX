@@ -1,0 +1,38 @@
+[
+  {
+    "Alicante": {
+      "sub_num": "A",
+      "name": "Alicante",
+      "bbox": {
+        "minLon": -1.08445024244861,
+        "minLat": 37.8429101329656,
+        "maxLon": 0.234548372839973,
+        "maxLat": 38.8827578917367
+      }
+    }
+  },
+  {
+    "Castellón": {
+      "sub_num": "CS",
+      "name": "Castellón",
+      "bbox": {
+        "minLon": -0.839090542150485,
+        "minLat": 39.7154401528841,
+        "maxLon": 0.523759592054757,
+        "maxLat": 40.7799142741475
+      }
+    }
+  },
+  {
+    "Valencia": {
+      "sub_num": "V",
+      "name": "Valencia",
+      "bbox": {
+        "minLon": -1.51827389129669,
+        "minLat": 38.6938306344866,
+        "maxLon": -0.0309952460016664,
+        "maxLat": 40.2032052697195
+      }
+    }
+  }
+]
